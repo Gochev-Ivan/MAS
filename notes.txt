@@ -1,0 +1,10 @@
+-> Finalna verzija (sega za sega) pretstavuva:
+	Quadcopter_pythonvrep_test_remoteapi_finalVersion_v0
+	(Quadcopter_pythonvrep_test_remoteapi_finalVersion_v1 e test za log_data i moze da se zeme isto kako finalna verzija)
+
+-> Posledna rabotna verzija za testiranje na upravuvacki algoritam i negovo spojuvanje so pathfinderot e:
+	pythonvrep_test_remoteapi_v8
+
+-> Posledna rabotna verzija za VREP okolina:
+	PathFollower_test_environment
+	
